@@ -33,36 +33,49 @@ Include a link to a video or GIF demonstrating the app's functionality.
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - [Dart](https://dart.dev/get-dart)
 
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/menstruation-tracking-app.git
-   cd menstruation-tracking-app
-Install dependencies:
-flutter pub get
+# Installation
+## Prerequisites
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
 
-Run the app:
+## Installation Steps
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/your-username/menstruation-tracking-app.git
+    cd menstruation-tracking-app
+    ```
 
-flutter run
+2. **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
 
-##Usage
+3. **Run the app:**
+    ```bash
+    flutter run
+    ```
 
-Open the app and navigate to the calendar view.
-Tap on a date to log daily menstrual data using the entry form.
-Explore graphical analysis in the insights section.
-Screenshots
+# Usage
+- Open the app and navigate to the calendar view.
+- Tap on a date to log daily menstrual data using the entry form.
+- Explore graphical analysis in the insights section.
+
+# Screenshots
 Include screenshots showcasing the app's calendar, form, and graphical analysis features.
 
-##Technologies Used
-**Flutter:** Framework for building cross-platform mobile applications.
-**Dart:** Programming language used with Flutter.
-**Charting Library (e.g., fl_chart):** Used for graphical analysis.
-**Contributing**
-Contributions are welcome! Please follow the contribution guidelines to contribute to the project.
+# Technologies Used
+- **Flutter:** Framework for building cross-platform mobile applications.
+- **Dart:** Programming language used with Flutter.
+- **Charting Library (e.g., `fl_chart`):** Used for graphical analysis.
 
-License
-This project is licensed under the MIT License.
+# Contributing
+Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) to contribute to the project.
 
-Acknowledgements
-Mention any libraries, frameworks, or resources used.
-Provide credits to sources of inspiration or data used for insights.
+# License
+This project is licensed under the [MIT License](LICENSE).
+
+# Acknowledgements
+- Mention any libraries, frameworks, or resources used.
+- Provide credits to sources of inspiration or data used for insights.
+
+
